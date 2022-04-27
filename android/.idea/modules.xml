@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1395334793/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1395334793/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testapp.iml" filepath="$PROJECT_DIR$/.idea/modules/testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-566524106/testapp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-566524106/testapp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1682549279/testapp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1682549279/testapp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1785615607/testapp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1785615607/testapp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/660917344/testapp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/660917344/testapp.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
